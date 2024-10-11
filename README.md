@@ -65,4 +65,10 @@ Gender distribution is quite balanced, but there's an opportunity to explore why
 **4. Optimize department referrals:** There’s room to improve referral processes and ensure patients are evenly distributed among departments to avoid overburdening General 
 Practice.
 
-By addressing these points, the hospital can improve patient experiences, enhance operational efficiency, and prepare for future demands.
+## Conclusion
+
+From the analysis, a few important areas for improvement stand out. First, it's clear that longer wait times are directly affecting patient satisfaction, so reducing these delays should be a top priority for boosting the overall patient experience. Additionally, the data shows that most visits happen during the weekdays, with a higher proportion of adult patients. This means resources should be allocated with these trends in mind, while still being flexible enough to handle pediatric and weekend cases.
+
+The steady increase in patient visits from 2019 to 2020 indicates that healthcare facilities need to plan ahead to accommodate this growing demand and ensure that they have the capacity to meet future needs. Finally, the fact that so many patients aren't being referred to specific departments raises some concerns about how triage is being managed. Better balancing patient loads across different specialties could lead to more efficient service.
+
+By focusing on these areas, we can make meaningful improvements in the overall efficiency, patient satisfaction, and service delivery within the emergency department.
